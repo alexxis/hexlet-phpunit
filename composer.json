@@ -35,5 +35,10 @@
   },
   "files": [
       "src/Utils.php"
-  ]
+  ],
+  "config": {
+    "allow-plugins": {
+      "phpstan/extension-installer": true
+    }
+  }
 }
